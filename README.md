@@ -14,5 +14,6 @@
 <h2>How to start?</h2>
 <ul type="square">
   <li>Download the repository as a <a href="https://github.com/sleepwallking/pose-estimination">zip folder</a> or <a href="https://github.com/sleepwallking/pose-estimination.git">clone</a> it</li>
+  <li>Install <a href="https://opencv.org/">OpenCV</a> , <a href="https://www.tensorflow.org/">Tensorflow</a> and <a href="https://matplotlib.org/">Matplotlib</a> libraries.</li>
   <li>Run <a href="https://github.com/sleepwallking/pose-estimination/blob/main/main.py">main.py</a> using terminal</li>
 </ul>
